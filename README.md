@@ -23,7 +23,7 @@ If the command does not work go to this link to download pip => https://pip.pypa
 
 ## Step 3 Download This Repository
 
-Download the code you see in here by clicking the download button
+Download the code you see in here by scrolling up and clicking the download button. THe button should look like the image below.
 
 ![image](https://user-images.githubusercontent.com/73862038/116841916-a7065e80-aba8-11eb-9bd7-75c44b5c78b8.png)
 
