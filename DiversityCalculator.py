@@ -4,7 +4,7 @@ from numpy.lib.scimath import logn
 from math import e
 from matplotlib import pyplot as plt
   
-df = pd.DataFrame(pd.read_excel("C:/Users/avyuk/Desktop/Learn/Coding/Automation/BlandyAutomation/Blandy_Data.xlsx"))
+df = pd.DataFrame(pd.read_excel("./data/Blandy_Data.xlsx"))
 
 datahash = {}
 for col in df:
