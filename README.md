@@ -27,7 +27,9 @@ Download the code you see in here by scrolling up and clicking the download butt
 
 ![image](https://user-images.githubusercontent.com/73862038/116841916-a7065e80-aba8-11eb-9bd7-75c44b5c78b8.png)
 
-Once you have downloaded the repository save it to your desktop folder
+There should be an option called "download ZIP" click that and let it download (I promise its not a virus)
+Then go into file explorer, go into your downloads folder and right click the ZIP file that you downloaded.
+Then click extract all and a window should pop up. Click browse and and select your desktop as the folder you want to save the extracted files to.
 
 ## Step 4 Installing Dependencies
 
@@ -45,7 +47,7 @@ pip install -r requirements.txt
 
 ## Step 5 Running the Code
 
-Your basically done now all you need to do is run the following command(s)
+Your basically done now all you need to do is run the following command(s). Make sure to go into the downloaded folder on your desktop and into the folder that says data. The Blandy Data that was used to create this software should be in there. Delete the file and add your own if you prefer but if you do replace it rename the file you added to "Blandy_data.xlsx".
 
 ```shell
 python DiversityCalculator.py
