@@ -111,6 +111,3 @@ if __name__ == '__main__':
     print("\n")
     print(OutputTable)
     print("\n")
-
-    # OutputTable.plot.scatter(x = 'H-Prime', y = 'J-Prime')
-    # plt.show()
