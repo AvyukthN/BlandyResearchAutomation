@@ -32,7 +32,11 @@ Once you have the folder downloaded, go into cmd once again and it should have s
 
 ```shell
 cd Desktop
+```
+```shell
 cd BlandyResearchAutomation
+```
+```shell
 pip install -r requirements.txt
 ```
 
