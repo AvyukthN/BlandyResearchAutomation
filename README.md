@@ -15,7 +15,9 @@ Pip is a python package manager which will allow us to install "packages" that h
 Open up terminal by search for "cmd" in windows or typing "Windows Key + R" and then typing "cmd" and then typing "enter"
 Copy and paste this command into your terminal 
 
+'''shell
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+'''
 
 If the command does not work go to this link to download pip => https://pip.pypa.io/en/stable/installing/
 
