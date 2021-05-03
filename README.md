@@ -42,7 +42,7 @@ cd Desktop
 cd BlandyResearchAutomation
 ```
 ```shell
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Step 5 Running the Code
