@@ -59,4 +59,8 @@ or
 python3 DiversityCalculator.py
 ```
 
-If something does not work copy and paste the error into google and look for a website called stack overflow they are more qualified than I am to help u
+Give the program a second to run and your command prompt (cmd) should display something that looks like this
+
+![image](https://user-images.githubusercontent.com/73862038/116842316-23e60800-abaa-11eb-9ba0-a37d402c1cdf.png)
+
+If something does not work and u get some sort of ambiguous error, copy and paste the error into google and look for a website called stack overflow they are more qualified than I am to help u
